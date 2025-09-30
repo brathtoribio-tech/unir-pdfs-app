@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/11dSURp4fnldx4GxyHdS_fpzrGdNo6BlN
 """
 
-!pip install pymupdf PyPDF2 pandas pytesseract pdf2image
+ pymupdf PyPDF2 pandas pytesseract pdf2image
 !apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-spa
 
 from google.colab import files
